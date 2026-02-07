@@ -66,7 +66,6 @@ Transportation_DataEngineering_PipeLine/
 └── README.md                    # This file
 
 
-*(Add your pipeline SQL/Python notebooks, sample data paths, or architecture diagrams here as you expand the repo.)*
 
 ## 🛠️ Technologies Used
 
