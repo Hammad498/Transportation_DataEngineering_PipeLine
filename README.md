@@ -8,7 +8,7 @@ It handles massive streaming volumes, unpredictable data arrivals, out-of-order 
 
 Built with **Databricks Lakeflow Spark Declarative Pipelines (SDP)** on a classic **Medallion Architecture** (Bronze → Silver → Gold), using **Auto Loader** for dynamic ingestion, native **CDC** for incremental updates, and declarative flows to minimize code and manual orchestration.
 
-## 🚀 Problem It Solves....................
+## 🚀 Problem It Solves.........
 
 In today's ride-hailing world — explosive growth across cities, millions of daily trips, surging demand for real-time insights on pricing, fleet optimization, and rider behavior — traditional pipelines struggle with:
 
