@@ -6,7 +6,7 @@ This project demonstrates a scalable, production-ready data engineering pipeline
 
 It handles massive streaming volumes, unpredictable data arrivals, out-of-order events, and schema changes — delivering fresh, high-quality data ready for analytics, BI, and AI/ML applications such as demand forecasting, dynamic pricing, and anomaly detection.
 
-Built with **Databricks Lakeflow Spark Declarative Pipelines (SDP)** on a classic **Medallion Architecture** (Bronze → Silver → Gold), using **Auto Loader** for dynamic ingestion, native **CDC** for incremental updates, and declarative flows to minimize code and manual orchestration.
+Built with **Databricks Lakeflow Spark Declarative Pipelines (SDP)** on a classic **Medallion Architecture** (Bronze → Silver → Gold), using **Auto Loader** for dynamic ingestion, native **CDC** for incremental updates, and declarative flows to minimize code and manual orchestration.................
 
 ## 🚀 Problem It Solves.
 
