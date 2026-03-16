@@ -2,7 +2,7 @@
 
 **End-to-End Ride-Hailing Data Pipeline using Databricks Lakeflow Spark Declarative Pipelines (SDP)**
 
-This project demonstrates a scalable, production-ready data engineering pipeline for processing ride-hailing / trip data (inspired by real-world transportation scenarios like inDrive, Uber, Careem, Bykea, etc.).  
+This project demonstrates a scalable, production-ready data engineering pipeline for processing ride-hailing / trip data (inspired by real-world transportation scenarios like inDrive, Uber, Careem, Bykea, etc.).  ///////////
 
 It handles massive streaming volumes, unpredictable data arrivals, out-of-order events, and schema changes — delivering fresh, high-quality data ready for analytics, BI, and AI/ML applications such as demand forecasting, dynamic pricing, and anomaly detection.
 
